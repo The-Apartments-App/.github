@@ -15,10 +15,10 @@ This document outlines core definitions that apply across all Apartments App rep
 
 ---
 
-## Product Goals
+# Product Goals
 
-### Apartments App (iOS) - Primary App for Members
-  #### Features
+## Apartments App (iOS) - Primary App for Members
+  ### Features
   - Application submissions
     - Mostly complete, need to test
   - Lease signing
@@ -26,37 +26,37 @@ This document outlines core definitions that apply across all Apartments App rep
   - Rent Payments
     - Not yet implemented
   - Move-in Checklist
-  #### Fixes
+  ### Fixes
    - Door codes are not being generated correctly for tours
-  #### Testing
+  ### Testing
   - No tests written yet
 
 
-### Apartments App (iPadOS)
+## Apartments App (iPadOS)
   - Not yet built
 
-### Apartments App (web)
+## Apartments App (web)
   - Not yet built (High Priority)
   - This doesn't need to be functional initially, it mainly needs to act as a funnel and a place for backlinks to improve SEO
 
-### Apartments App (Android)
+## Apartments App (Android)
   - Not yet built
 
-### Apartments App for Managers (web) - Primary App for Managers
-  #### Features
+## Apartments App for Managers (web) - Primary App for Managers
+  ### Features
   - Application submissions
   - Lease signing
   - Rent Payments
   - Move-in Checklist
-  #### Fixes
-  #### Testing
+  ### Fixes
+  ### Testing
   - Minimal testing (landing page, sign in, dashboard)
 
-### Apartments App for Managers (macOS)
+## Apartments App for Managers (macOS)
   - Not yet built
 
-### Apartments App for Managers (iPadOS)
+## Apartments App for Managers (iPadOS)
   - Not yet built
 
-### Apartments App for Managers (WatchOS)
+## Apartments App for Managers (WatchOS)
   - Not yet built
