@@ -26,6 +26,10 @@ This document outlines core definitions that apply across all Apartments App rep
   - Rent Payments
     - Not yet implemented
   - Move-in Checklist
+    - Not yet implemented
+  - Move-out Checklist
+    - Not yet implemented
+    
   ### Fixes
    - Door codes are not being generated correctly for tours
   ### Testing
@@ -45,10 +49,18 @@ This document outlines core definitions that apply across all Apartments App rep
 ## Apartments App for Managers (web) - Primary App for Managers
   ### Features
   - Application submissions
+    - Mostly complete, need to test
   - Lease signing
+    - Some backend work likely needed
   - Rent Payments
+    - Not yet implemented
   - Move-in Checklist
+    - Not yet implemented
+  - Move-out Checklist
+    - Not yet implemented
+      
   ### Fixes
+  
   ### Testing
   - Minimal testing (landing page, sign in, dashboard)
 
