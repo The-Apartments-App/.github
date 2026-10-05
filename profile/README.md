@@ -20,20 +20,20 @@ This document outlines core definitions that apply across all Apartments App rep
 ## Apartments App (iOS) - Primary App for Members
   ### Features
   - Application submissions
-    - Mostly complete, need to test
+    - Needs tests
   - Lease signing
-    - Some backend work likely needed
+    - Needs tests
   - Rent Payments
-    - Not yet implemented
+    - Needs tests
   - Move-in Checklist
-    - Not yet implemented
+    - Needs tests
   - Move-out Checklist
-    - Not yet implemented
+    - Needs tests
     
   ### Fixes
    - Door codes are not being generated correctly for tours
   ### Testing
-  - No tests written yet
+  - In progress
 
 
 ## Apartments App (iPadOS)
